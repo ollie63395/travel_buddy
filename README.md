@@ -38,31 +38,31 @@ Click any date to view that day's itinerary
 
 ### 🛠️ Tech Stack
 
-- Frontend
+-- Frontend
 
-React (with Vite)
+- React (with Vite)
 
-Tailwind CSS
+- Tailwind CSS
 
-React Router
+- React Router
 
-TypeScript (optional)
+- TypeScript (optional)
 
-- Data & Storage
+-- Data & Storage
 
-LocalStorage (Phase 1)
+- LocalStorage (Phase 1)
 
-Firebase Firestore (Phase 2)
+- Firebase Firestore (Phase 2)
 
-(Optional) Firebase Authentication
+- (Optional) Firebase Authentication
 
-- Dev Tools
+-- Dev Tools
 
-Git + GitHub
+- Git + GitHub
 
-VS Code
+- VS Code
 
-npm or yarn
+- npm or yarn
 
 ### 🚧 Development Phases
 
@@ -71,25 +71,10 @@ Phase 1 – Local Planning Tool
 Phase 2 – Persistent Cloud Storage
 Phase 3 – UI & Quality
 
-### 📂 File Structure (to come in Phase 0)
-
-travelbuddy/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   ├── App.jsx
-│   └── main.jsx
-├── .gitignore
-├── index.html
-├── package.json
-└── README.md
-
 ### 📌 Status
 
 This is a learning-focused project that will grow incrementally through clear, structured development steps. This doc will be updated as progress is made.
 
 ### 📧 Contact
 
-Built by Ollie. For questions or collaboration, reach out via GitHub or Discord!
+Built by Ollie. For questions or collaboration, reach out via GitHub or email!
