@@ -1,0 +1,21 @@
+{
+  "name": "travel_buddy",
+  "version": "1.0.0",
+  "description": "TravelBuddy helps users plan and manage their travel itineraries using a clean, editable table format. This MVP focuses on providing a web-based experience with core trip planning functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ollie63395/travel_buddy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ollie63395/travel_buddy/issues"
+  },
+  "homepage": "https://github.com/ollie63395/travel_buddy#readme"
+}
